@@ -1,0 +1,13 @@
+1- para añadir cambios
+git add . 
+
+
+2- para confirmar los cambios 
+git commit -m "texto descriptivo"
+
+3- para elevar los archivos al repostiorio del GITHub
+git push
+
+para saber el estado de los archivos
+git status
+esto se puede hacer varias veces y en cualquier momento
